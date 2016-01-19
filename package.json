@@ -1,0 +1,24 @@
+{
+  "name": "es6-react-learn",
+  "version": "1.0.0",
+  "description": "Following the React tutorials",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottTKennedy/es6-react-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScottTKennedy/es6-react-learn/issues"
+  },
+  "homepage": "https://github.com/ScottTKennedy/es6-react-learn#readme",
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  },
+  "devDependencies": {}
+}
